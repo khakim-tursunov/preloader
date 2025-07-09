@@ -24,7 +24,7 @@ body {
 .preloader-2 li {
 	width: 40px;
 	height: 40px;
-	background: #337AB7;
+	background: #1cbec9;
 	border-radius: 4px;
 	animation: preloader-2-scale 0.8s linear alternate infinite;
 }
